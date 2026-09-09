@@ -110,3 +110,7 @@ For questions, privacy requests, or support related to Community OS, contact the
 `u/weknowthe_`
 
 Community OS is an independent Devvit app and is not an official Reddit product.
+
+---
+
+A product by [Vinod Ashok Chinnannavar](https://www.vinodchinnannavar.in/?utm_source=community_os&utm_medium=legal&utm_campaign=community_os&utm_content=privacy_policy_footer)
