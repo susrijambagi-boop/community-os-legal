@@ -11,6 +11,6 @@ Community OS helps subreddit moderators diagnose community health, surface next 
 
 ---
 
-**A product by [Vinod Ashok Chinnannavar](https://www.vinodchinnannavar.in)**
+**A product by [Vinod Ashok Chinnannavar](https://www.vinodchinnannavar.in/?utm_source=community_os&utm_medium=website&utm_campaign=community_os&utm_content=website_footer)**
 
 Community OS is an independent Reddit Devvit app and is not an official Reddit product.
